@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\obj\Debug\VP Assignment 1.csprojAssemblyReference.cache
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\obj\Debug\VP Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\bin\Debug\VP Assignment 1.exe.config
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\bin\Debug\VP Assignment 1.exe
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\bin\Debug\VP Assignment 1.pdb
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\obj\Debug\VP Assignment 1.exe
+C:\Users\abdul\source\repos\VP Assignment 1\VP Assignment 1\obj\Debug\VP Assignment 1.pdb
